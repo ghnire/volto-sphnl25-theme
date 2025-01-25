@@ -16,4 +16,12 @@ msgstr ""
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
 
+#. Default: "Sparknet{reg} | Spark Holland Intranet site | {current_year}"
+#: components/Footer/Footer
+msgid "Sparknet{reg} - Spark Holland Intranet site"
+msgstr ""
 
+#. Default: "{sparknet}"
+#: components/Footer/Footer
+msgid "footer-message-sitename-id"
+msgstr ""

@@ -11,4 +11,12 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+#. Default: "Sparknet{reg} | Spark Holland Intranet site | {current_year}"
+#: components/Footer/Footer
+msgid "Sparknet{reg} - Spark Holland Intranet site"
+msgstr ""
 
+#. Default: "{sparknet}"
+#: components/Footer/Footer
+msgid "footer-message-sitename-id"
+msgstr ""
