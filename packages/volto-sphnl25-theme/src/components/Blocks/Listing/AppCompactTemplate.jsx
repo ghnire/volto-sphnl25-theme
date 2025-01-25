@@ -31,7 +31,11 @@ const AppCompactTemplate = ({ items, linkTitle, linkHref, isEditMode }) => {
                 className="listing-item listing-app-compact"
                 key={item['@id']}
               >
-                <ConditionalLink item={item} condition={!isEditMode}>
+                <ConditionalLink
+                  openLinkInNewTab={item.opennew}
+                  to={flattenToAppURL(item.applink)}
+                  condition={!isEditMode}
+                >
                   <Component
                     componentName="PreviewImage"
                     item={item}
