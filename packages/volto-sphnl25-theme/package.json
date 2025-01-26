@@ -45,19 +45,6 @@
     "lodash": "4.17.21",
     "react-intl": "3.12.1"
   },
-  "addons": [
-    "@eeacms/volto-accordion-block",
-    "@eeacms/volto-columns-block",
-    "@eeacms/volto-corsproxy",
-    "@eeacms/volto-block-divider",
-    "@kitconcept/volto-button-block",
-    "@kitconcept/volto-heading-block",
-    "@kitconcept/volto-highlight-block",
-    "@kitconcept/volto-introduction-block",
-    "@kitconcept/volto-separator-block",
-    "@kitconcept/volto-slider-block",
-    "@kitconcept/volto-light-theme"
-  ],
   "peerDependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0"
