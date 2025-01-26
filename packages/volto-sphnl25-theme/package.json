@@ -35,9 +35,15 @@
     "@kitconcept/volto-heading-block": "2.4.0",
     "@kitconcept/volto-highlight-block": "4.0.0",
     "@kitconcept/volto-introduction-block": "1.0.0",
+    "@kitconcept/volto-light-theme": "6.0.0-alpha.7",
     "@kitconcept/volto-separator-block": "4.1.2",
     "@kitconcept/volto-slider-block": "6.3.1",
-    "@kitconcept/volto-light-theme": "6.0.0-alpha.10"
+    "@plone/components": "^3.0.1",
+    "classnames": "2.2.6",
+    "embla-carousel-autoplay": "^8.5.2",
+    "embla-carousel-react": "^8.5.2",
+    "lodash": "4.17.21",
+    "react-intl": "3.12.1"
   },
   "peerDependencies": {
     "react": "18.2.0",

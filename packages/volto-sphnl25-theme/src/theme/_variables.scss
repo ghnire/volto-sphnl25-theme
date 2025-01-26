@@ -1,0 +1,36 @@
+:root {
+  --custom-main-font: 'Poppins';
+  --primary-color: white;
+  --primary-foreground-color: #5e6a72;
+
+  --secondary-color: white;
+  --secondary-foreground-color: #293676;
+
+  --accent-color: #00b4c1;
+  --accent-foreground-color: white;
+
+  --link-color: white;
+  --link-foreground-color: #5e6a72;
+
+  --header-background: url('media/Sparkles.gif');
+  //--header-background: #293676;
+  --header-foreground: white;
+
+  --headline-foreground: #5e6a72;
+
+  --footer-background: rgb(232, 246, 248);
+  --footer-foreground: #5e6a72;
+
+  --breadcrumbs-background: white;
+  --breadcrumbs-foreground: #293676;
+
+  --default-font-weight: 400;
+  --header-font-weight: 700;
+
+  --light-blue: rgb(206 234 238);
+  --spark-grey: rgb(113, 121, 124);
+  --listing-box-shadow-color: #e7e8e9;
+
+  --layout-container-width: 1680px;
+  --border-radius-img: 25px;
+}

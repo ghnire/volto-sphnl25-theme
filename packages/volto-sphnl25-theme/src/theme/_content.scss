@@ -1,0 +1,103 @@
+#homecontent {
+  padding: 20px;
+  h3 {
+    color: #293676 !important;
+    font-size: 20px !important;
+    font-weight: var(--header-font-weight) !important;
+  }
+  .home-left {
+    .figure {
+      border-radius: 25px;
+      box-shadow: 0 0 10px 5px var(--listing-box-shadow-color);
+    }
+    .blocks-group-wrapper {
+      .block {
+        margin-bottom: 40px !important;
+      }
+    }
+  }
+}
+
+.sph-home-news {
+  #actueel-spark-nieuws {
+    margin-bottom: 10px !important;
+    color: var(--spark-grey) !important;
+    font-weight: var(--header-font-weight);
+  }
+}
+
+.sph-home-events {
+  .blocks-group-wrapper {
+    margin-right: 0 !important;
+    margin-left: 10px !important;
+  }
+}
+
+.listingPlanner {
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  border-radius: 25px;
+  margin-top: 40px;
+  box-shadow: 0 0 10px 5px var(--listing-box-shadow-color);
+  .headline {
+    width: 100%;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    color: var(--spark-grey);
+    font-size: 24px !important;
+    font-weight: var(--header-font-weight);
+    text-align: left !important;
+  }
+  h3 {
+    margin-top: 5px;
+    margin-bottom: 0px !important;
+  }
+  span {
+    color: var(--headline-foreground);
+  }
+  .listing-event-whenwhere {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+  .listing-item {
+    width: 100%;
+    margin-bottom: 15px;
+    .listing-body {
+      width: 100%;
+      border-top: 1px solid #ceeaee;
+    }
+  }
+  .le-ww-container {
+    width: 100%;
+    padding-top: 0.5rem;
+  }
+  .le-ww-row {
+    display: flex;
+    width: 100%;
+    flex: 100%;
+    margin-bottom: 5px;
+    .icon {
+      margin-right: 5px;
+    }
+    .le-ww-column {
+      display: flex;
+      margin-right: 20px;
+    }
+  }
+}
+
+.sparkblue {
+  .card-container {
+    background: #293676 !important;
+    box-shadow: 2px 2px 2px 3px #091656;
+    .item {
+      background: #293676 !important;
+      box-shadow: none !important;
+      p {
+        box-shadow: none !important;
+      }
+    }
+  }
+}
