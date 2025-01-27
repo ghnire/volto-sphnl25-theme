@@ -6,6 +6,7 @@ import { useSelector, shallowEqual } from 'react-redux';
 import UniversalLink from '@plone/volto/components/manage/UniversalLink/UniversalLink';
 import ConditionalLink from '@plone/volto/components/manage/ConditionalLink/ConditionalLink';
 import Logo from '@plone/volto/components/theme/Logo/Logo';
+import ftrLogo from '../../theme/media/Spark_logo_BLUE_svg.svg';
 import { Container } from '@plone/components';
 import { flattenToAppURL, addAppURL } from '@plone/volto/helpers/Url/Url';
 import config from '@plone/volto/registry';
@@ -39,7 +40,7 @@ const Footer = ({ intl }) => {
                 <img
                   className="logo"
                   alt="Spark Holland logo blue"
-                  src="./spark_logo_blue_svg.svg/@@images/image-386-9ea6c86bc8e402c99fb4036bf8903f6d.svg"
+                  src={ftrLogo}
                 />
               </div>
               <div className="footer-element-flex-item">
