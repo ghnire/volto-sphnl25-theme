@@ -1,6 +1,6 @@
 {
   "name": "@sphnl/volto-sphnl25-theme",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.4",
   "description": "Spark Holland intranet theme 2025",
   "main": "src/index.js",
   "license": "MIT",
